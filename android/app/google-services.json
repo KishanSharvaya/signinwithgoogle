@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "111155351359",
+    "project_id": "signinwithfirebase-2294b",
+    "storage_bucket": "signinwithfirebase-2294b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111155351359:android:290331cea63141e05b0d8a",
+        "android_client_info": {
+          "package_name": "com.example.signinwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111155351359-r5eechijtv54ojlfbp1b2m22sgpkaged.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinwithfirebase",
+            "certificate_hash": "d30d4b0193193d38df2ee7af165872093462ade3"
+          }
+        },
+        {
+          "client_id": "111155351359-40jdcnifi229p23imocbouphq6mp8dlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9n-pmGC5S0JGi98PlHLUdTX52T0T9aVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111155351359-40jdcnifi229p23imocbouphq6mp8dlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
